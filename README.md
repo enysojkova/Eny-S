@@ -1,4 +1,4 @@
 # aloha bejby ✨
 
-[Alternative text](vajco dropcat.png)
+[Alternative text](01-alterative-text)
 
