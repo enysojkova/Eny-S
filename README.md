@@ -7,13 +7,15 @@
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
 
 ### 💁🏻‍♀️ let me tell you a little more about myself: 
-- I'm currently studying and trying my best to become a proffesional brand designer
+- I'm currently studying and working towards becoming a proffesional brand designer
 - at the moment I'm based in the Czech Republic, but I'm very open to online and remote work connections
-- beside design (of any kind) I very much enjoy the mountains - in all seasons, any cultural events and travelling
+- beside design (of any kind) I enjoy the mountains - in all seasons, any cultural events and travelling
 
 ### 💻 let's take a look at my work:
+- my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client 
+- ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
-PAVA case study
+### [PAVA case study] 
 
 ![IMG_4255 2](https://user-images.githubusercontent.com/116082681/201919460-4fb94e64-77ba-44ad-ad55-3f2d538e3d5b.jpg)
 
