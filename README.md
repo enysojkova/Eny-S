@@ -1,4 +1,4 @@
-# aloha bejby ✨
+# ✨ aloha bejby 
 
 ## 1st Impression   
 
@@ -15,7 +15,7 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 - my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client 
 - ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
-### [PAVA case study] 
+#### 🦷 PAVA case study
 
 ![IMG_4255 2](https://user-images.githubusercontent.com/116082681/201919460-4fb94e64-77ba-44ad-ad55-3f2d538e3d5b.jpg)
 
