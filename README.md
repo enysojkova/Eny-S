@@ -7,13 +7,11 @@
 
 [3. Favorite work case study]
 
-## 1. About the little rascal    
+## 1. Get to know me   
 
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
 ![IMG_6147 Medium](https://user-images.githubusercontent.com/116082681/217015392-b7343c94-1524-4cdc-95ac-a2d15d9ebb68.jpeg)
 
-
-[click](https://enysojkova.github.io/Eny-S/#1st-impression)
 
 ## 💁🏻‍♀️ let me tell you a little more about myself: 
 - I'm currently studying and working towards becoming a proffesional brand designer
@@ -21,9 +19,9 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 - besides design I enjoy the mountains - in all seasons, any cultural events and travelling
 
 
-## 💻 let's take a look at my work:
+## 2. Skip to the good stuff [Work (and school) experience]
 
-### 🦷 PAVA case study
+## 3. Case study
 
 ![IMG_4255 2](https://user-images.githubusercontent.com/116082681/201919460-4fb94e64-77ba-44ad-ad55-3f2d538e3d5b.jpg)
 
