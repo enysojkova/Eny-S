@@ -2,11 +2,11 @@
 
 ## 1st Impression   
 
-<img width="310" alt="Screenshot 2022-11-14 at 23 02 32" src="https://user-images.githubusercontent.com/116082681/201777437-17d27abf-d7a3-4e85-8ff1-cbb1476c121a.png">
-
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
+![IMG_6147 Medium](https://user-images.githubusercontent.com/116082681/217015392-b7343c94-1524-4cdc-95ac-a2d15d9ebb68.jpeg)
 
-[click](about-the-little-rascal)
+
+[click](1st Impression)
 
 ## 💁🏻‍♀️ let me tell you a little more about myself: 
 - I'm currently studying and working towards becoming a proffesional brand designer
