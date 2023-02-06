@@ -15,7 +15,7 @@
 
 
 
-## 1. 💁🏻‍♀️ Get to know me   
+### 1. 💁🏻‍♀️ Get to know me   
 
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
 
@@ -31,10 +31,10 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 
 
 
-## 2. 💻 Skip to the good stuff [Work (and school) experience]
+### 2. 💻 Skip to the good stuff [Work (and school) experience]
 
 
-## 3. 🪑 Case study
+### 3. 🪑 Case study
 
 ![IMG_4255 2](https://user-images.githubusercontent.com/116082681/201919460-4fb94e64-77ba-44ad-ad55-3f2d538e3d5b.jpg)
 
@@ -45,9 +45,9 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 - my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client 
 - ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
-## 4. 🎙️ Voice & tone 
+### 4. 🎙️ Voice & tone 
 
 
-## [Alternative text](01-alterative-text)
+### [Alternative text](01-alterative-text)
 
 ![vajco dropcat](https://user-images.githubusercontent.com/116082681/197730232-f8a9f528-50c2-48ac-8205-953b24cd4ba3.png)
