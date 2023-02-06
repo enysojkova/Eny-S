@@ -1,27 +1,37 @@
-# ✨ aloha bejby 
+### ✨ aloha bejby 
 
-### Content
-[1. About the little rascal](https://enysojkova.github.io/Eny-S/#1-about-the-little-rascal)
+## Content
+[1. About the little rascal](https://enysojkova.github.io/Eny-S/#1-get-to-know-me)
 
 [2. Work (and school) experience](https://enysojkova.github.io/Eny-S/#2-skip-to-the-good-stuff-work-and-school-experience)
 
 [3. Favorite work case study](https://enysojkova.github.io/Eny-S/#3-case-study)
 
-## 1. Get to know me   
+[4. Voice & tone]
+
+
+
+
+
+# 1. 💁🏻‍♀️ Get to know me   
 
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
+
 ![IMG_6147 Medium](https://user-images.githubusercontent.com/116082681/217015392-b7343c94-1524-4cdc-95ac-a2d15d9ebb68.jpeg)
 
 
-## 💁🏻‍♀️ let me tell you a little more about myself: 
+### let me tell you a little more about myself: 
 - I'm currently studying and working towards becoming a proffesional brand designer
 - at the moment I'm based in the Czech Republic, but I'm open to online and remote work connections
 - besides design I enjoy the mountains - in all seasons, any cultural events and travelling
 
 
-## 2. Skip to the good stuff [Work (and school) experience]
 
-## 3. Case study
+
+
+# 2. 💻 Skip to the good stuff [Work (and school) experience]
+
+# 3. 🪑 Case study
 
 ![IMG_4255 2](https://user-images.githubusercontent.com/116082681/201919460-4fb94e64-77ba-44ad-ad55-3f2d538e3d5b.jpg)
 
@@ -32,7 +42,7 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 - my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client 
 - ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
-
+# 4. 🎙️ Voice & tone 
 
 
 ## [Alternative text](01-alterative-text)
