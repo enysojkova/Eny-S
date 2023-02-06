@@ -6,7 +6,7 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 ![IMG_6147 Medium](https://user-images.githubusercontent.com/116082681/217015392-b7343c94-1524-4cdc-95ac-a2d15d9ebb68.jpeg)
 
 
-[click](1st Impression)
+[click]()
 
 ## 💁🏻‍♀️ let me tell you a little more about myself: 
 - I'm currently studying and working towards becoming a proffesional brand designer
