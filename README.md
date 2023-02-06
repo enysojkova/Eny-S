@@ -6,7 +6,6 @@
 
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
 
-[About the little rascal] (about-the-little-rascal)
 ## 💁🏻‍♀️ let me tell you a little more about myself: 
 - I'm currently studying and working towards becoming a proffesional brand designer
 - at the moment I'm based in the Czech Republic, but I'm open to online and remote work connections
