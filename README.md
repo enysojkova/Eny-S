@@ -3,9 +3,9 @@
 ### Content
 [1. About the little rascal](https://enysojkova.github.io/Eny-S/#1-about-the-little-rascal)
 
-[2. Work (and school) experience]
+[2. Work (and school) experience](https://enysojkova.github.io/Eny-S/#2-skip-to-the-good-stuff-work-and-school-experience)
 
-[3. Favorite work case study]
+[3. Favorite work case study](https://enysojkova.github.io/Eny-S/#3-case-study)
 
 ## 1. Get to know me   
 
