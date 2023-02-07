@@ -1,5 +1,4 @@
 ## ✨ aloha bejby
-Here's a link to my [design porfolio...](https://enysojkova.myportfolio.com) you know... since I'm a designer 
 
 
 
@@ -23,6 +22,8 @@ Here's a link to my [design porfolio...](https://enysojkova.myportfolio.com) you
 
 [5. Alternative text](alternative-text.md)
 
+Here's a link to my [design porfolio...](https://enysojkova.myportfolio.com) you know... since I'm a designer 
+
 #### feel free to skip 
 
 
@@ -36,7 +37,7 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 ![IMG_6147 Medium](https://user-images.githubusercontent.com/116082681/217015392-b7343c94-1524-4cdc-95ac-a2d15d9ebb68.jpeg)
 
 
-### let me tell you a little more about myself: 
+## let me tell you a little more about myself: 
 - I'm currently studying and working towards becoming a proffesional brand designer
 - at the moment I'm based in the Czech Republic, but open to online and remote work connections
 - besides design I enjoy the mountains - in all seasons, any cultural events and travelling
@@ -66,7 +67,14 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 # 2. 💻 Work (and school) experience
 - 2006-2020 Art school 
 - 2020-23 VŠKK, Graphic design - Bachelor's degree
-- 
+- 2021-22 KOBE Gastro Group //
+- 2021-23 Adventure Golf KJ //branding//
+- 2022 PAVA dental lab 
+- 2022 Customised by Jiří Dvořáček (handmade leather goods) //logo//
+- 2022 Kimono desing 
+- 2022-23 Nahota života (book)
+- 2022-23 Memisto (luxury furniture e-shop)
+- 2023 Lior (high-end lights)
 
 
 
