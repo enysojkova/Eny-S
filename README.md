@@ -1,7 +1,7 @@
 ### ✨ aloha bejby 
 
 ## Content
-[1. About the little rascal](https://enysojkova.github.io/Eny-S/#1-get-to-know-me)
+[1. About the little rascal](aboutme)
 
 [2. Work (and school) experience](https://enysojkova.github.io/Eny-S/#2-skip-to-the-good-stuff-work-and-school-experience)
 
