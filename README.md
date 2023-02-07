@@ -3,9 +3,10 @@
 
 
 
-#### tip on how to navigate this page:
-- bullet points contain the summary of the topic (at the top)
-- paragraphs break down the details 
+
+> #### tip on how to navigate this page:
+> - bullet points contain the summary of the topic (at the top)
+> - paragraphs break down the details 
 
 
 
@@ -23,8 +24,6 @@
 [5. Alternative text](alternative-text.md)
 
 Here's a link to my [design porfolio...](https://enysojkova.myportfolio.com) you know... since I'm a designer 
-
-#### feel free to skip 
 
 
 
@@ -67,7 +66,7 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 # 2. 💻 Work (and school) experience
 - 2006-2020 Art school 
 - 2020-23 VŠKK, Graphic design - Bachelor's degree
-- 2021-22 KOBE Gastro Group //
+- 2021-22 KOBE Gastro Group //branding//
 - 2021-23 Adventure Golf KJ //branding//
 - 2022 PAVA dental lab 
 - 2022 Customised by Jiří Dvořáček (handmade leather goods) //logo//
@@ -76,12 +75,13 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 - 2022-23 Memisto (luxury furniture e-shop)
 - 2023 Lior (high-end lights)
 
-
+### Art school 
+I joined "ZUŠ Chomutov" at the age of 6 to study art education. Here I had the opportunity to try many artistic techniques from ceramics to lithography. Theory was also part of the teaching - perspective, golden ratio, drawing from angles. 
 
 
 
 # 3. 🪑 Skip to the good stuff - Case study
-
+## Memisto
 
 
 
