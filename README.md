@@ -1,4 +1,16 @@
-### ✨ aloha bejby 
+## ✨ aloha bejby
+
+
+
+
+
+#### tip on how to navigate this page:
+- bullet points contain a summary of the topic (at the top)
+- paragraphs break down the details 
+
+
+
+
 
 ## Content
 [1. About the little rascal](about-the-little-rascal.md)
@@ -10,6 +22,8 @@
 [4. Voice & tone](voice-and-tone.md)
 
 [5. Alternative text](alternative-text.md)
+
+#### feel free to skip
 
 
 
@@ -38,30 +52,42 @@ My dear friend showed me all the required programmes and helped me create a port
 
 
 ### in my free-time  
-When it comes to work, I can seem very calculating. Or at least when I chose my career. In my personal life, I don't know what I'm doing half the time. And most of the time, I have no idea what's gonna come, not to mention my terrible memory. I prefer to say I'm spontaneous or distracted, my friends think I'm prematurely senile. 
+When it comes to work, I can seem very calculating. Or at least when I chose my career path. In my personal life, I don't know what I'm doing half the time, not to mention my terrible memory. I prefer to say I'm spontaneous or distracted, my friends think I'm prematurely senile. 
 
-All jokes aside, in case it's raining i don't mind spending the day indoors drawing/painting. Or being out in the best company - my dear friends. An everyday must-do is going out with my dog. Preferably wondering through the mountains or the woods near my town. 
+All jokes aside, in case it's raining i don't mind spending the day indoors drawing/painting. Or being out in the best company - my dear friends. An everyday must-do is walking my dog. Preferably in the mountains or woods near my town. 
 
-I'm a big theatre fan - movie, performance, ballet, drama. My passion is definitely music. To me, summer is for the big stage concerts or tiny acoustic nights at the local bar. 
+I'm a big theatre fan - movie, performance, ballet, drama. My passion is definitely music. To me, summer means the big stage concerts or tiny acoustic nights in local cafés. 
 
-I'd say travelling must be in my DNA. My parents and my grandparents travelled half the world. Me and my brother seem to be following their footsteps for now. Although he's more driven to the sea and surfing, whereas I lean towards the mountains and skiing.  
-
-
+I'd say travelling must be in my DNA. My parents and my grandparents travelled half the world. Me and my brother seem to be following their footsteps for now. Although he's more into waves and surfing, whereas I lean towards the mountains and skiing.  
 
 
 
 
-# 2. 💻 Skip to the good stuff - Work (and school) experience
+# 2. 💻 Work (and school) experience
 - 2020 VŠKK 
 
-# 3. 🪑 Case study
+
+
+
+
+# 3. 🪑 Skip to the good stuff - Case study
+
+
+
 
 
 - my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client is essential
 - ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
+
+
+
+
 # 4. 🎙️ Voice & tone 
 I try not to make a big difference between my professional and personal life. I like to work on projects where it is very important for me to show my character to the client. It seems to me that sometimes my strong character can show in the result. That is why I prefer a personal, warm and sincere approach - the client can know what to expect. In my personal life, I logically choose the same approach and most of all I prefer to be truthful and helpful.
+
+
+
 
 
 # [Alternative text](01-alterative-text)
