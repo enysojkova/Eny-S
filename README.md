@@ -1,15 +1,15 @@
 ### ✨ aloha bejby 
 
 ## Content
-[1. About the little rascal](aboutme.md)
+[1. About the little rascal](about-the-little-rascal.md)
 
-[2. Work (and school) experience](https://enysojkova.github.io/Eny-S/#2-skip-to-the-good-stuff-work-and-school-experience)
+[2. Work (and school) experience](work-and-school-experience.md)
 
-[3. Favorite work case study](https://enysojkova.github.io/Eny-S/#3-case-study)
+[3. Favorite work case study](favorite-work-case-study.md)
 
-[4. Voice & tone](https://enysojkova.github.io/Eny-S/#3-case-study)
+[4. Voice & tone](voice-and-tone.md)
 
-[5. Alternative text](https://enysojkova.github.io/Eny-S/#3-case-study)
+[5. Alternative text](alternative-text.md)
 
 
 
