@@ -52,7 +52,7 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 
 # 2. 💻 Skip to the good stuff - Work (and school) experience
-
+- 2020 VŠKK 
 
 # 3. 🪑 Case study
 
