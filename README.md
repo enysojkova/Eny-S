@@ -1,5 +1,5 @@
 ## ✨ aloha bejby
-
+[Here's my design porfolio...](https://enysojkova.myportfolio.com) you know... since I'm a designer 
 
 
 
@@ -17,7 +17,7 @@
 
 [2. Work (and school) experience](work-and-school-experience.md)
 
-[3. Favorite work case study](favorite-work-case-study.md)
+[3. Top work case study](favorite-work-case-study.md)
 
 [4. Voice & tone](voice-and-tone.md)
 
@@ -64,7 +64,8 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 
 # 2. 💻 Work (and school) experience
-- 2020 VŠKK 
+- 2020-23 VŠKK 
+- 
 
 
 
