@@ -1,11 +1,11 @@
 ## ✨ aloha bejby
-[Here's my design porfolio...](https://enysojkova.myportfolio.com) you know... since I'm a designer 
+Here's a link to my [design porfolio...](https://enysojkova.myportfolio.com) you know... since I'm a designer 
 
 
 
 
 #### tip on how to navigate this page:
-- bullet points contain a summary of the topic (at the top)
+- bullet points contain the summary of the topic (at the top)
 - paragraphs break down the details 
 
 
@@ -23,7 +23,7 @@
 
 [5. Alternative text](alternative-text.md)
 
-#### feel free to skip
+#### feel free to skip 
 
 
 
@@ -64,7 +64,8 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 
 # 2. 💻 Work (and school) experience
-- 2020-23 VŠKK 
+- 2006-2020 Art school 
+- 2020-23 VŠKK, Graphic design - Bachelor's degree
 - 
 
 
