@@ -13,17 +13,17 @@
 
 
 ### Content
-[1. About the little rascal](about-the-little-rascal.md)
+- [x] [1. About the little rascal](about-the-little-rascal.md)
 
-[2. Work (and school) experience](work-and-school-experience.md)
+- [ ] [2. Work & school experience](work-and-school-experience.md)
 
-[3. Top work case study](favorite-work-case-study.md)
+- [ ] [3. Top work case study](favorite-work-case-study.md)
 
-[4. Voice & tone](voice-and-tone.md)
+- [ ] [4. Voice & tone](voice-and-tone.md)
 
-[5. Alternative text](alternative-text.md)
+- [x] [5. Alternative text](alternative-text.md)
 
-Here's a link to my [design porfolio...](https://enysojkova.myportfolio.com) you know... since I'm a designer 
+- [x] [6. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
 
 
@@ -63,7 +63,7 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 
 
-# 2. 💻 Work (and school) experience
+# 2. 💻 Work & school experience
 > ### Education 
 > - 2006-2020 Art school 
 > - 2020-23 VŠKK, Graphic design - Bachelor's degree
