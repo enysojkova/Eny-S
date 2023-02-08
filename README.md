@@ -1,4 +1,4 @@
-## ✨ aloha bejby
+### ✨ aloha bejby
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-## Content
+### Content
 [1. About the little rascal](about-the-little-rascal.md)
 
 [2. Work (and school) experience](work-and-school-experience.md)
@@ -36,10 +36,10 @@ hi stranger, this is camera-shy me, but in real life I concider myself to be pre
 ![IMG_6147 Medium](https://user-images.githubusercontent.com/116082681/217015392-b7343c94-1524-4cdc-95ac-a2d15d9ebb68.jpeg)
 
 
-## let me tell you a little more about myself: 
-- I'm currently studying and working towards becoming a proffesional brand designer
-- at the moment I'm based in the Czech Republic, but open to online and remote work connections
-- besides design I enjoy the mountains - in all seasons, any cultural events and travelling
+> ### let me tell you a little more about myself: 
+> - I'm currently studying and working towards becoming a proffesional brand designer
+> - at the moment I'm based in the Czech Republic, but open to online and remote work connections
+> - besides design I enjoy the mountains - in all seasons, any cultural events and travelling
 
 ### my design journey
 I could say, I dedicated my whole life to art and music. At least since I was able to hold a pencil, talk and dance. So when it was time to choose a career path (at the end of high school), it was quite obvious, that I would go the "artsy" way. 
@@ -64,24 +64,29 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 
 # 2. 💻 Work (and school) experience
-- 2006-2020 Art school 
-- 2020-23 VŠKK, Graphic design - Bachelor's degree
-- 2021-22 KOBE Gastro Group //branding//
-- 2021-23 Adventure Golf KJ //branding//
-- 2022 PAVA dental lab 
-- 2022 Customised by Jiří Dvořáček (handmade leather goods) //logo//
-- 2022 Kimono desing 
-- 2022-23 Nahota života (book)
-- 2022-23 Memisto (luxury furniture e-shop)
-- 2023 Lior (high-end lights)
+> ### Education 
+> - 2006-2020 Art school 
+> - 2020-23 VŠKK, Graphic design - Bachelor's degree
+
+> ### Experience
+> - 2021-22 KOBE Gastro Group //branding//
+> - 2021-23 Adventure Golf KJ //branding//
+> - 2022 PAVA dental lab //logo//
+> - 2022 Customised by Jiří Dvořáček (handmade leather goods) //logo//
+> - 2022 Kimono desing 
+> - 2022-23 Nahota života //book cover and design//
+> - 2022-23 Memisto (luxury furniture e-shop)
+> - 2023 Lior (high-end lights)
 
 ### Art school 
 I joined "ZUŠ Chomutov" at the age of 6 to study art education. Here I had the opportunity to try many artistic techniques from ceramics to lithography. Theory was also part of the teaching - perspective, golden ratio, drawing from angles. 
 
+### University VŠKK (cz), PSCC (eng) 
+At the Prague School of Creative Communication I was taught by professionals in the field. The main subjects were, for example, history of art and design, typography or also marketing and philosophy. The school connected us with many interesting clients and commissions (Czech Post, Kobe Restaurants or the town of Špindlerův mlýn).
 
 
 # 3. 🪑 Skip to the good stuff - Case study
-## Memisto
+### Memisto
 
 
 
