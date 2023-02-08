@@ -5,8 +5,8 @@
 
 
 > #### tip on how to navigate this page:
-> - bullet points contain the summary of the topic 
-> - paragraphs break down the details 
+> - __bullet points__ contain the summary of the topic 
+> - __paragraphs__ break down the details 
 
 &nbsp;
 
@@ -66,6 +66,7 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 # 2. 💻 work & school experience
 > ### Summary
+
 > #### Education 
 > - 2006-2020 Art school 
 > - 2020-23 VŠKK, Graphic design - Bachelor's degree
@@ -76,9 +77,9 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 > - 2022 PAVA dental lab //logo//
 > - 2022 Customised by Jiří Dvořáček (handmade leather goods) //logo//
 > - 2022 Kimono desing 
-> - 2022-23 Nahota života //book cover and design//
-> - 2022-23 Memisto (luxury furniture e-shop)
-> - 2023 Lior (high-end lights)
+> - 2022-23 Nahota života //book cover and design
+> - 2022-23 Memisto (luxury furniture e-shop) //branding//
+> - 2023 Lior (high-end lights) //branding//
 
 #### Art school 
 I joined "ZUŠ Chomutov" at the age of 6 to study art education. Here I had the opportunity to try many artistic techniques from ceramics to lithography. Theory was also part of the teaching - perspective, golden ratio, drawing from angles. 
@@ -107,12 +108,24 @@ My job was to create a logo and design the application on business cards and t-s
 The client makes his own watch straps and wallets from genuine leather. He processes the leather himself and stamps his logo on the products - which I designed and processed. 
 
 #### Kimono design
+2 Complete designs of names and sponsors on the back and their logo on the front. For 2 young athletes (Brazilian jiu-jitsu) performing at world level. 
+
+#### Nahota života (transl. The Nudity of Life)
+2nd collection of my dear friend's poems. My job is to create the cover and design the layout of the text in the book, choosing the fonts and creating additional illustrations. 
+
+#### Memisto 
+Memisto is an online shop offering luxury furniture from Europe. Lamps, chandeliers, armchairs, chairs, writing and dining tables, coffee tables or storage furniture. My task was to come up with a name in addition to the usual branding (logo, pattern, font, colours). I also designed the look of the website and the design for social media communication. 
+
+
+#### Lior
+Czech manufacturer of luminaires with a wide range of chromaticity and the possibility of changing RGB colours. The main idea is healthy, smart lighting. Due to the exceptional design and high price this project is very interesting. 
+Due to time pressure I was forced to part with the project in the middle. This means that my part only included creating the name, moodboard and designing the communication. However, the owners continue to work with some of my designs and ideas.  
+
 
 &nbsp;
 
 # 3. 🪑 Skip to the good stuff - Case study
 ### Memisto
-
 
 
 
