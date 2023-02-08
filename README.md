@@ -78,11 +78,30 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 > - 2022-23 Memisto (luxury furniture e-shop)
 > - 2023 Lior (high-end lights)
 
-### Art school 
+#### Art school 
 I joined "ZUŠ Chomutov" at the age of 6 to study art education. Here I had the opportunity to try many artistic techniques from ceramics to lithography. Theory was also part of the teaching - perspective, golden ratio, drawing from angles. 
 
-### University VŠKK (cz), PSCC (eng) 
+#### University VŠKK (cz), PSCC (eng) 
 At the Prague School of Creative Communication I was taught by professionals in the field. The main subjects were, for example, history of art and design, typography or also marketing and philosophy. The school connected us with many interesting clients and commissions (Czech Post, Kobe Restaurants or the town of Špindlerův mlýn).
+
+#### Kobe Gastro Group
+The cooperation with Kobe was facilitated by the school. Kobe Restaurants approached the university to rebrand their existing restaurants and create a new company, Kobe Gastro Group. Kobe GG will be the parent company that will be the umbrella for their 4 restaurants. It will also be used for day to day communication with clients and suppliers. 
+
+
+10 teams created proposals that were judged in 2 rounds. Our team made it to the finals and ended up winning first place and continues to work with the client. 
+
+
+Our work included 2 facelifts of existing logos. 2 designs for new logos and communication styles. The last one was brand manuals. 
+
+
+My role in this project: team leader, sketches of all facelifts and new logos.
+
+#### PAVA Dental Lab 
+It's important to emphasize that this is not a dental practice, but only a laboratory that supplies dentists with implants, etc. 
+
+My job was to create a logo and design the application on business cards and t-shirts. 
+
+#### Customised by Jiří Dvořáček
 
 
 # 3. 🪑 Skip to the good stuff - Case study
