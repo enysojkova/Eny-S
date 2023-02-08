@@ -5,10 +5,10 @@
 
 
 > #### tip on how to navigate this page:
-> - bullet points contain the summary of the topic (at the top)
+> - bullet points contain the summary of the topic 
 > - paragraphs break down the details 
 
-
+&nbsp;
 
 
 
@@ -17,26 +17,26 @@
 
 - [ ] [2. Work & school experience](work-and-school-experience.md)
 
-- [ ] [3. Top work case study](favorite-work-case-study.md)
+- [ ] [3. Top work case study](favorite-work-case-study.md)
 
-- [ ] [4. Voice & tone](voice-and-tone.md)
+- [ ] [4. Voice & tone](voice-and-tone.md)
 
 - [x] [5. Alternative text](alternative-text.md)
 
 - [x] [6. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
+&nbsp;
 
 
 
-
-# 1. 💁🏻‍♀️ Get to know me   
+# 1. 💁🏻‍♀️ let me tell you a little more about myself:   
 
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
 
 ![IMG_6147 Medium](https://user-images.githubusercontent.com/116082681/217015392-b7343c94-1524-4cdc-95ac-a2d15d9ebb68.jpeg)
 
 
-> ### let me tell you a little more about myself: 
+> ### Summary 
 > - I'm currently studying and working towards becoming a proffesional brand designer
 > - at the moment I'm based in the Czech Republic, but open to online and remote work connections
 > - besides design I enjoy the mountains - in all seasons, any cultural events and travelling
@@ -60,15 +60,17 @@ I'm a big theatre fan - movie, performance, ballet, drama. My passion is definit
 
 I'd say travelling must be in my DNA. My parents and my grandparents travelled half the world. Me and my brother seem to be following their footsteps for now. Although he's more into waves and surfing, whereas I lean towards the mountains and skiing.  
 
+&nbsp;
 
 
 
-# 2. 💻 Work & school experience
-> ### Education 
+# 2. 💻 work & school experience
+> ### Summary
+> #### Education 
 > - 2006-2020 Art school 
 > - 2020-23 VŠKK, Graphic design - Bachelor's degree
 
-> ### Experience
+> #### Experience
 > - 2021-22 KOBE Gastro Group //branding//
 > - 2021-23 Adventure Golf KJ //branding//
 > - 2022 PAVA dental lab //logo//
@@ -102,7 +104,11 @@ It's important to emphasize that this is not a dental practice, but only a labor
 My job was to create a logo and design the application on business cards and t-shirts. 
 
 #### Customised by Jiří Dvořáček
+The client makes his own watch straps and wallets from genuine leather. He processes the leather himself and stamps his logo on the products - which I designed and processed. 
 
+#### Kimono design
+
+&nbsp;
 
 # 3. 🪑 Skip to the good stuff - Case study
 ### Memisto
@@ -113,11 +119,12 @@ My job was to create a logo and design the application on business cards and t-s
 - my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client is essential
 - ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
+&nbsp;
 
 
 
 
-# 4. 🎙️ Voice & tone 
+# 4. 🎙️ voice & tone 
 I try not to make a big difference between my professional and personal life. I like to work on projects where it is very important for me to show my character to the client. It seems to me that sometimes my strong character can show in the result. That is why I prefer a personal, warm and sincere approach - the client can know what to expect. In my personal life, I logically choose the same approach and most of all I prefer to be truthful and helpful.
 
 
