@@ -83,7 +83,8 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 > - 2022-23 Memisto (high-end furniture e-shop) //branding//
 > - 2023 Lior (high-end lights) //branding//
 
-> [Download my résumé](when i have it ill provide it :))
+
+> [Download my résumé](enys-resume-02-23.pdf](https://github.com/enysojkova/Eny-S/files/10702291/enys-resume-02-23.pdf)
 
 &nbsp;
 
