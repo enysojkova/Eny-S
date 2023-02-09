@@ -163,7 +163,7 @@ Memisto in czech, when broken apart, means "mé místo" = "my place". You can se
 
 The typography was very easy to choose, since we knew from the beginning the vibe it should have. Logo and the 3 dots came naturally… The feel of wanting more, of something unsaid. Straight up our alley! 
 
-Than we have the checker board. Chess is one of the oldest and most sophisticated games I can think of. But changing the black to a muted brown makes all the difference. And when I added the round, beautiful, sometimes pastel furniture, it all started to make sense. 
+Than we have the checker board. Chess is one of the oldest and most sophisticated games I can think of. But changing the black to a muted brown makes all the difference. And when I added the round, beautiful, sometimes pastel furniture, it all made sense. 
 
 E commerce has a blend of beauty and simplicity (cheesy, right?). But that's all we need, let the products speak for themselves. No games, no fuss. 
 
@@ -172,16 +172,20 @@ This project is still in progres and I can't wait to share the final results!
 It's been one of the most beautiful and relaxing branding rides I've been on. These are the projects that fuel my creativity and will to keep working. 
 
 <img width="586" alt="Screenshot 2023-02-08 at 14 05 16" src="https://user-images.githubusercontent.com/116082681/217641494-c2561da0-8a3c-4ce1-8fdb-63d192d0474a.png">
+Logo + pattern
+
+&nbsp;
 
 <img width="586" alt="Screenshot 2023-02-08 at 14 04 51" src="https://user-images.githubusercontent.com/116082681/217641529-2fe9383e-963e-46fa-8907-c80294665217.png">
+Checkboard pattern with statement furniture
+
+&nbsp;
 
 <img width="591" alt="Screenshot 2023-02-08 at 14 06 36" src="https://user-images.githubusercontent.com/116082681/217641555-68fdd63c-7295-4e61-a98a-c6e0d5bf88c2.png">
 
 <img width="591" alt="Screenshot 2023-02-08 at 14 06 47" src="https://user-images.githubusercontent.com/116082681/217641581-702bcf59-8818-464f-9777-a62d0b67a2ee.png">
+E commerce draft
 
-
-- my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client is essential
-- ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
 &nbsp;
 
@@ -192,6 +196,8 @@ It's been one of the most beautiful and relaxing branding rides I've been on. Th
 I try not to make a big difference between my professional and personal life. I like to work on projects where it is very important for me to show my character to the client. It seems to me that sometimes my strong character can show in the result. That is why I prefer a personal, warm and sincere approach - the client can know what to expect. In my personal life, I logically choose the same approach and most of all I prefer to be truthful and helpful.
 
 
+- my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client is essential
+- ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
 
 
