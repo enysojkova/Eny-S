@@ -15,9 +15,9 @@
 ### Content
 - [x] [1. About the little rascal](about-the-little-rascal.md)
 
-- [ ] [2. Work & school experience](work-and-school-experience.md)
+- [x] [2. Work & school experience](work-and-school-experience.md)
 
-- [ ] [3. Top work case study](favorite-work-case-study.md)
+- [ ] [3. Latest work case study](favorite-work-case-study.md)
 
 - [ ] [4. Voice & tone](voice-and-tone.md)
 
@@ -70,7 +70,7 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 > ### Summary
 
 > #### Education 
-> - 2006-2020 Art school 
+> - 2006-20 Art school 
 > - 2020-23 VŠKK, Graphic design - Bachelor's degree
 
 > #### Experience
@@ -80,18 +80,20 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 > - 2022 Customised by Jiří Dvořáček (handmade leather goods) //logo//
 > - 2022 Kimono desing 
 > - 2022-23 Nahota života //book cover and design
-> - 2022-23 Memisto (luxury furniture e-shop) //branding//
+> - 2022-23 Memisto (high-end furniture e-shop) //branding//
 > - 2023 Lior (high-end lights) //branding//
+
+> [Download my résumé](when i have it ill provide it :))
 
 &nbsp;
 
-#### Art school 
+#### Art school - 2006-20
 I joined "ZUŠ Chomutov" at the age of 6 to study art education. Here I had the opportunity to try many artistic techniques from ceramics to lithography. Theory was also part of the teaching - perspective, golden ratio, drawing from angles. 
 
-#### University VŠKK (cz), PSCC (eng) 
+#### University VŠKK (cz), PSCC (eng) - 2020-23
 At the Prague School of Creative Communication I was taught by professionals in the field. The main subjects were, for example, history of art and design, typography or also marketing and philosophy. The school connected us with many interesting clients and commissions (Czech Post, Kobe Restaurants or the town of Špindlerův mlýn).
 
-#### Kobe Gastro Group
+#### Kobe Gastro Group - 2021-22
 The cooperation with Kobe was facilitated by the school. Kobe Restaurants approached the university to rebrand their existing restaurants and create a new company, Kobe Gastro Group. Kobe GG will be the parent company that will be the umbrella for their 4 restaurants. It will also be used for day to day communication with clients and suppliers. 
 
 
@@ -103,25 +105,25 @@ Our work included 2 facelifts of existing logos. 2 designs for new logos and com
 
 My role in this project: team leader, sketches of all facelifts and new logos.
 
-#### PAVA Dental Lab 
+#### PAVA Dental Lab - 2022
 It's important to emphasize that this is not a dental practice, but only a laboratory that supplies dentists with implants, etc. 
 
 My job was to create a logo and design the application on business cards and t-shirts. 
 
-#### Customised by Jiří Dvořáček
+#### Customised by Jiří Dvořáček - 2022
 The client makes his own watch straps and wallets from genuine leather. He processes the leather himself and stamps his logo on the products - which I designed and processed. 
 
-#### Kimono design
+#### Kimono design - 2022
 2 Complete designs of names and sponsors on the back and their logo on the front. For 2 young athletes (Brazilian jiu-jitsu) performing at world level. 
 
-#### Nahota života (transl. The Nudity of Life)
+#### Nahota života (transl. The Nudity of Life) - 2022-23
 2nd collection of my dear friend's poems. My job is to create the cover and design the layout of the text in the book, choosing the fonts and creating additional illustrations. 
 
-#### Memisto 
+#### Memisto - 2022-23
 Memisto is an online shop offering luxury furniture from Europe. Lamps, chandeliers, armchairs, chairs, writing and dining tables, coffee tables or storage furniture. My task was to come up with a name in addition to the usual branding (logo, pattern, font, colours). I also designed the look of the website and the design for social media communication. 
 
 
-#### Lior
+#### Lior - 2023
 Czech manufacturer of luminaires with a wide range of chromaticity and the possibility of changing RGB colours. The main idea is healthy, smart lighting. Due to the exceptional design and high price this project is very interesting. 
 Due to time pressure I was forced to part with the project in the middle. This means that my part only included creating the name, moodboard and designing the communication. However, the owners continue to work with some of my designs and ideas.  
 
@@ -130,6 +132,32 @@ Due to time pressure I was forced to part with the project in the middle. This m
 
 # 3. 🪑 Skip to the good stuff - Case study
 ### Memisto
+
+__A. Challenge__ 
+
+Memisto is a newly created brand. The goal is to get statement, high quality furniture to modern households/apartments. 
+
+Thankfully my client did his research. He found out, that people who could afford such homes, would prefer professionals to arrange said space. That is why our end customer is more likely to be an interior designer = B2B communication. 
+
+My assignment was to create the:
+- brand name 
+- moodboard 
+- logo 
+- color palette 
+- pattern 
+- e commerce preview 
+- Instagram templates 
+
+. Client?
+
+__B. Solution__ 
+After researching the competition, inspiration and foreign brands I made a proposal. 
+
+We'll create a name that subtly plays with words but can be easy to pronounce (in eng/cz). Something funky but memorable. Most of the furniture my client would like to sell looks very round and soft. We will enhance that with light and calming colours. To add some contrast and character, I'll add sharper shapes and patterns. Here I'd like to remind you, that we are already targeting designers! The outcome can look more expensive and little bit out of reach. E commerce needs to be very easy to navigate. Socials should feel very timeless, not too trendy, but still active. 
+
+Key words: timeless, statement, clouds, cosy
+
+__C. Result__ 
 
 <img width="586" alt="Screenshot 2023-02-08 at 14 05 16" src="https://user-images.githubusercontent.com/116082681/217641494-c2561da0-8a3c-4ce1-8fdb-63d192d0474a.png">
 
