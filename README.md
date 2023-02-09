@@ -17,7 +17,7 @@
 
 - [x] [2. Work & school experience](work-and-school-experience.md)
 
-- [ ] [3. Latest work case study](favorite-work-case-study.md)
+- [x] [3. Latest work case study](favorite-work-case-study.md)
 
 - [ ] [4. Voice & tone](voice-and-tone.md)
 
