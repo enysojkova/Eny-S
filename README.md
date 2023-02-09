@@ -84,7 +84,9 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 > - 2023 Lior (high-end lights) //branding//
 
 
-> [Download my résumé](enys-resume-02-23.pdf](https://github.com/enysojkova/Eny-S/files/10702291/enys-resume-02-23.pdf)
+> [Download my résumé](https://github.com/enysojkova/Eny-S/files/10702291/enys-resume-02-23.pdf)
+
+> [And check out my portfolio](https://enysojkova.myportfolio.com)
 
 &nbsp;
 
@@ -133,6 +135,8 @@ Due to time pressure I was forced to part with the project in the middle. This m
 
 # 3. 🪑 Skip to the good stuff - Memisto Case study
 ### Memisto
+
+> sorry, I'm not giving you the summary, this one's worth your while 
 
 __A. Challenge__ 
 
