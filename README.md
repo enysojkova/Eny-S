@@ -221,7 +221,7 @@ It's been one of the most beautiful and relaxing branding rides I've been on. Th
 
 
 
-# 4. 🎙️ voice & tone 
+# [4. 🎙️ voice & tone](voice-and-tone.md)
 > ### Summary
 
 >  - Voice: core values: honesty, truth, warmth, respect and friendliness
@@ -242,10 +242,10 @@ In two words - mutual respect. The best example is the "negative comment" approa
 
 &nbsp;
 
-# 5. [Alternative text](01-alterative-text)
+# [5. Alternative text](01-alterative-text)
 
 ![eggo drop cap](https://user-images.githubusercontent.com/116082681/197730232-f8a9f528-50c2-48ac-8205-953b24cd4ba3.png)
 
 &nbsp;
 
-# 6. [Link to my design porfolio](https://enysojkova.myportfolio.com)
+# [6. Link to my design porfolio](https://enysojkova.myportfolio.com)
