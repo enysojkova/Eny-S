@@ -13,17 +13,17 @@
 
 
 ### Content
-- [x] [1. About the little rascal](about-the-little-rascal.md)
+- [1. About the little rascal](about-the-little-rascal.md)
 
-- [x] [2. Work & school experience](work-and-school-experience.md)
+- [2. Work & school experience](work-and-school-experience.md)
 
-- [x] [3. Latest work case study](favorite-work-case-study.md)
+- [3. Latest work case study](favorite-work-case-study.md)
 
-- [ ] [4. Voice & tone](voice-and-tone.md)
+- [4. Voice & tone](voice-and-tone.md)
 
-- [x] [5. Alternative text](alternative-text.md)
+- [5. Alternative text](alternative-text.md)
 
-- [x] [6. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
+- [6. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
 &nbsp;
 
@@ -52,6 +52,7 @@ I started researching design schools - interior, graphic, product or furniture d
 
 My dear friend showed me all the required programs and helped me create a portfolio. And so my design journey began. 
 
+&nbsp;
 
 ### in my free-time  
 When it comes to work, I can seem very calculating. Or at least when I chose my career path. In my personal life, I don't know what I'm doing half the time, not to mention my terrible memory. I prefer to say I'm spontaneous or distracted, my friends think I'm prematurely senile. 
@@ -93,8 +94,12 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 #### Art school - 2006-20
 I joined "ZUŠ Chomutov" at the age of 6 to study art education. Here I had the opportunity to try many artistic techniques from ceramics to lithography. Theory was also part of the teaching - perspective, golden ratio, drawing from angles. 
 
+&nbsp;
+
 #### University VŠKK (cz), PSCC (eng) - 2020-23
 At the Prague School of Creative Communication I was taught by professionals in the field. The main subjects were, for example, history of art and design, typography or also marketing and philosophy. The school connected us with many interesting clients and commissions (Czech Post, Kobe Restaurants or the town of Špindlerův mlýn).
+
+&nbsp;
 
 #### Kobe Gastro Group - 2021-22
 The cooperation with Kobe was facilitated by the school. Kobe Restaurants approached the university to rebrand their existing restaurants and create a new company, Kobe Gastro Group. Kobe GG will be the parent company that will be the umbrella for their 4 restaurants. It will also be used for day to day communication with clients and suppliers. 
@@ -108,23 +113,34 @@ Our work included 2 facelifts of existing logos. 2 designs for new logos and com
 
 My role in this project: team leader, sketches of all facelifts and new logos.
 
+&nbsp;
+
 #### PAVA Dental Lab - 2022
 It's important to emphasize that this is not a dental practice, but only a laboratory that supplies dentists with implants, etc. 
 
 My job was to create a logo and design the application on business cards and t-shirts. 
 
+&nbsp;
+
 #### Customised by Jiří Dvořáček - 2022
 The client makes his own watch straps and wallets from genuine leather. He processes the leather himself and stamps his logo on the products - which I designed and processed. 
+
+&nbsp;
 
 #### Kimono design - 2022
 2 Complete designs of names and sponsors on the back and their logo on the front. For 2 young athletes (Brazilian jiu-jitsu) performing at world level. 
 
+&nbsp;
+
 #### Nahota života (transl. The Nudity of Life) - 2022-23
 2nd collection of my dear friend's poems. My job is to create the cover and design the layout of the text in the book, choosing the fonts and creating additional illustrations. 
+
+&nbsp;
 
 #### Memisto - 2022-23
 Memisto is an online shop offering luxury furniture from Europe. Lamps, chandeliers, armchairs, chairs, writing and dining tables, coffee tables or storage furniture. My task was to come up with a name in addition to the usual branding (logo, pattern, font, colours). I also designed the look of the website and the design for social media communication. 
 
+&nbsp;
 
 #### Lior - 2023
 Czech manufacturer of luminaires with a wide range of chromaticity and the possibility of changing RGB colours. The main idea is healthy, smart lighting. Due to the exceptional design and high price this project is very interesting. 
@@ -135,6 +151,8 @@ Due to time pressure I was forced to part with the project in the middle. This m
 
 # 3. 🪑 Skip to the good stuff - Memisto Case study
 ### Memisto
+
+> ### Summary
 
 > sorry, I'm not giving you the summary, this one's worth your while 
 
@@ -153,6 +171,7 @@ My assignment was to create the:
 - e commerce preview 
 - Instagram templates 
 
+&nbsp;
 
 __B. Solution__ 
 
@@ -161,6 +180,8 @@ After researching the competition, inspiration and foreign brands I made a proje
 We'll create a name that subtly plays with words but is easy to pronounce (in eng/cz). Something funky but memorable. Most of the furniture my client would like to sell looks very round and soft. We will enhance that with light and calming colours. To add some contrast and character, I'll add sharper shapes and patterns. Here I'd like to remind you, that we are already targeting designers! The outcome can look more expensive and little bit out of reach. E commerce needs to be very easy to navigate. Socials should feel very timeless, not too trendy, but still active. 
 
 Key words: timeless, statement, clouds, cosy
+
+&nbsp;
 
 __C. Result__ 
 
@@ -201,14 +222,30 @@ E commerce draft ^
 
 
 # 4. 🎙️ voice & tone 
-I try not to make a big difference between my professional and personal life. I like to work on projects where it is very important for me to show my character to the client. It seems to me that sometimes my strong character can show in the result. That is why I prefer a personal, warm and sincere approach - the client can know what to expect. In my personal life, I logically choose the same approach and most of all I prefer to be truthful and helpful.
+> ### Summary
+> - I try not to make a big difference between my professional and personal life. I like to work on projects where it is very important for me to show my character to the client. It seems to me that sometimes my strong character can show in the result. That is why I prefer a personal, warm and sincere approach - the client can know what to expect. In my personal life, I logically choose the same approach and most of all I prefer to be truthful and helpful.
+>  - Voice: core values: honesty, truth, warmth, respect and friendliness
+>  - Tone: 
 
+&nbsp;
 
+### Voice 
+To me, voice feels very natural, it's who I am. I believe it can be changed, but it would be challenge. Maybe I can care for it? Give it some sort of direction, guidelines, carefully watch it? And look for possible mistakes. My core values are honesty, truth, warmth, respect and friendliness. The audience I'm trying to attract is younger (25-40 y. o.). Generally interested in design or aesthetics. 
+
+### Tone
+Tone is something I choose, it's variable, the flavour to my voice, the song I decide to sing. I'm very particular about getting along with my clients (and friends). The indicator is usually the way they we critique and give opinions. I intend to express myself in a kind and honest way. When I'm about to say something negative, I always avoid being rude and instead use politeness. That's not to be confused with sugar coating. When it's possible and welcomed I like to lighten up the mood with something funny and light. 
+
+### Client
+In two words - mutual respect. The best example is the "negative comment" approach. Since my clients have to review my work and give feedback.. "always avoid being rude and instead use politeness. That's not to be confused with sugar coating."
 - my dream client: small and/or personal business, preferably local projects, I tend to have a very personal approach - getting along with my client is essential
 - ideal projects: branding, logo manuals, visual identity, design drafts and brand brainstorming
 
+&nbsp;
 
+# 5. [Alternative text](01-alterative-text)
 
-# [Alternative text](01-alterative-text)
+![eggo drop cap](https://user-images.githubusercontent.com/116082681/197730232-f8a9f528-50c2-48ac-8205-953b24cd4ba3.png)
 
-![vajco dropcat](https://user-images.githubusercontent.com/116082681/197730232-f8a9f528-50c2-48ac-8205-953b24cd4ba3.png)
+&nbsp;
+
+# 6. [Link to my design porfolio](https://enysojkova.myportfolio.com)
