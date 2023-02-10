@@ -199,13 +199,13 @@ It's been one of the most beautiful and relaxing branding rides I've been on. Th
 
 <img width="586" alt="Screenshot 2023-02-08 at 14 05 16" src="https://user-images.githubusercontent.com/116082681/217641494-c2561da0-8a3c-4ce1-8fdb-63d192d0474a.png">
 
-Logo + pattern ^
+- Logo + pattern ^
 
 &nbsp;
 
 <img width="586" alt="Screenshot 2023-02-08 at 14 04 51" src="https://user-images.githubusercontent.com/116082681/217641529-2fe9383e-963e-46fa-8907-c80294665217.png">
 
-Checkboard pattern with statement furniture ^
+- Checkboard pattern with statement furniture ^
 
 &nbsp;
 
@@ -213,7 +213,7 @@ Checkboard pattern with statement furniture ^
 
 <img width="591" alt="Screenshot 2023-02-08 at 14 06 47" src="https://user-images.githubusercontent.com/116082681/217641581-702bcf59-8818-464f-9777-a62d0b67a2ee.png">
 
-E commerce draft ^
+- E commerce draft ^
 
 
 &nbsp;
@@ -223,9 +223,9 @@ E commerce draft ^
 
 # 4. 🎙️ voice & tone 
 > ### Summary
-> - I try not to make a big difference between my professional and personal life. I like to work on projects where it is very important for me to show my character to the client. It seems to me that sometimes my strong character can show in the result. That is why I prefer a personal, warm and sincere approach - the client can know what to expect. In my personal life, I logically choose the same approach and most of all I prefer to be truthful and helpful.
+
 >  - Voice: core values: honesty, truth, warmth, respect and friendliness
->  - Tone: 
+>  - Tone: respect, polite, fuunny
 
 &nbsp;
 
