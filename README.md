@@ -29,7 +29,7 @@
 
 
 
-# 1. 💁🏻‍♀️ let me tell you a little more about myself:   
+[# 1. 💁🏻‍♀️ let me tell you a little more about myself:](about-the-little-rascal.md)   
 
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
 
