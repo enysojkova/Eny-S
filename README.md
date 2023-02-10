@@ -29,7 +29,7 @@
 
 
 
-[# 1. 💁🏻‍♀️ let me tell you a little more about myself:](about-the-little-rascal.md)   
+# [1. 💁🏻‍♀️ let me tell you a little more about myself:](about-the-little-rascal.md)   
 
 hi stranger, this is camera-shy me, but in real life I concider myself to be pretty outgoing and talkative
 
@@ -67,7 +67,7 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 
 
-[# 2. 💻 work & school experience](work-and-school-experience.md)
+# [2. 💻 work & school experience](work-and-school-experience.md)
 > ### Summary
 
 > #### Education 
@@ -149,7 +149,7 @@ Due to time pressure I was forced to part with the project in the middle. This m
 
 &nbsp;
 
-# 3. 🪑 Skip to the good stuff - Memisto Case study
+# [3. 🪑 Skip to the good stuff - Memisto Case study](favorite-work-case-study.md)
 ### Memisto
 
 > ### Summary
