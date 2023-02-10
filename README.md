@@ -67,7 +67,7 @@ I'd say travelling must be in my DNA. My parents and my grandparents travelled h
 
 
 
-# 2. 💻 work & school experience
+[# 2. 💻 work & school experience](work-and-school-experience.md)
 > ### Summary
 
 > #### Education 
