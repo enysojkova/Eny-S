@@ -5,6 +5,8 @@
 
 > sorry, I'm not giving you the summary, this one's worth your while 
 
+&nbsp;
+
 __A. Challenge__ 
 
 Memisto is a newly created brand. The goal is to get statement, high quality furniture to modern households/apartments. 
