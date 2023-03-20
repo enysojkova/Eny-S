@@ -15,7 +15,7 @@
 ### Content
 - [1. About the little rascal](about-the-little-rascal.md)
 
-- [2. Work & school experience](work-and-school-experience.md)
+- [2. Work & school experience](work-and-school-experience.md) [and my résumé](https://enysojkova.myportfolio.com)
 
 - [3. Latest work case study](favorite-work-case-study.md)
 
