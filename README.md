@@ -23,9 +23,9 @@
 
 - [5. Alternative text](alternative-text.md)
 
-- [6. Storytelling]
+- [6. Storytelling](storytelling.md)
 
-- [7. Thesis abstract & presentation]
+- [7. Thesis abstract & presentation](abstract-and-presentation)
 
 - [7. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
