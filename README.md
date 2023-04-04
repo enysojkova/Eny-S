@@ -23,7 +23,11 @@
 
 - [5. Alternative text](alternative-text.md)
 
-- [6. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
+- [6. Storytelling]
+
+- [7. Thesis abstract & presentation]
+
+- [7. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
 &nbsp;
 
