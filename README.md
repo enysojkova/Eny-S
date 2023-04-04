@@ -27,7 +27,7 @@
 
 - [7. Thesis abstract & presentation](abstract-and-presentation)
 
-- [7. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
+- [8. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
 &nbsp;
 
@@ -256,4 +256,12 @@ Alt text: `sunny side up
 
 &nbsp;
 
-# [6. Link to my design porfolio](https://enysojkova.myportfolio.com)
+# [6. Storytelling](storytelling.md)
+
+&nbsp;
+
+# [7. Thesis abstract & presentation](abstract-and-presentation.md)
+
+&nbsp;
+
+# [8. Link to my design porfolio](https://enysojkova.myportfolio.com)
