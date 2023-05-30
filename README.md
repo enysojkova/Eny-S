@@ -24,7 +24,7 @@
 
 - [7. Thesis abstract](abstract-and-presentation)
 
-- [8. Thesis presentation]()
+- [8. Thesis presentation](thesis-presentation.md)
 
 - [9. Year end review]()
 
@@ -283,11 +283,11 @@ keywords: adventure golf, graphic design, marketing strategy, restaurant communi
 
 &nbsp;
 
-# [8. Thesis presentation] ()
+# [8. Thesis presentation](thesis-presentation.md)
 
 &nbsp;
 
-# [9. Year end review] ()
+# [9. Year end review]()
 
 &nbsp;
 
