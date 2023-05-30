@@ -290,6 +290,51 @@ keywords: adventure golf, graphic design, marketing strategy, restaurant communi
 
 # [9. Year end review](end-review.md)
 
+1) What did you like most about this course?
+
+> A: I enjoyed the fact, that I heard something new every week 
+
+
+&nbsp;
+2) What did you like least about this course?
+
+> A: 
+
+&nbsp;
+3) What were the top (three) things you learned this year?
+
+> A: The course taught me a lot about written english and different, more open and authentic ways to express myself. 
+
+&nbsp;
+4) What was the most memorable activity/assignment?
+
+
+&nbsp;
+5) What’s something you accomplished this year that you are most proud of?
+
+
+&nbsp;
+6) What’s one thing you learned about yourself?
+
+
+&nbsp;
+7) What’s one thing you could have done better?
+
+
+&nbsp;
+8) What’s one thing I could have done better?
+
+
+&nbsp;
+9) What’s one thing you would add or change about this course?
+
+
+&nbsp;
+10) What advice would you give to students taking this course next year?
+
+
+
+
 &nbsp;
 
 # [Link to my design porfolio](https://enysojkova.myportfolio.com)
