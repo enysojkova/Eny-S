@@ -22,7 +22,7 @@
 
 - [6. Storytelling](storytelling.md)
 
-- [7. Thesis abstract](abstract-and-presentation)
+- [7. Thesis abstract](abstract)
 
 - [8. Thesis presentation](thesis-presentation.md)
 
@@ -258,10 +258,11 @@ Alt text: `sunny side up
 &nbsp;
 
 # [6. Storytelling](storytelling.md)
+[nurture and discipline.pdf](https://github.com/enysojkova/Eny-S/files/11602621/nurture.and.discipline.pdf)
 
 &nbsp;
 
-# [7. Thesis abstract](abstract-and-presentation.md)
+# [7. Thesis abstract](abstract.md)
 
 ### Abstract 
 #### 1st draft
