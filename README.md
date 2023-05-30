@@ -1,9 +1,6 @@
 ### ✨ aloha bejby
 
 
-
-
-
 > #### tip on how to navigate this page:
 > - __bullet points__ contain the summary of the topic 
 > - __paragraphs__ break down the details 
@@ -25,9 +22,13 @@
 
 - [6. Storytelling](storytelling.md)
 
-- [7. Thesis abstract & presentation](abstract-and-presentation)
+- [7. Thesis abstract](abstract-and-presentation)
 
-- [8. Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
+- [8. Thesis presentation]()
+
+- [9. Year end review]()
+
+- [Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
 &nbsp;
 
@@ -260,7 +261,7 @@ Alt text: `sunny side up
 
 &nbsp;
 
-# [7. Thesis abstract & presentation](abstract-and-presentation.md)
+# [7. Thesis abstract](abstract-and-presentation.md)
 
 ### Abstract 
 #### 1st draft
@@ -282,4 +283,12 @@ keywords: adventure golf, graphic design, marketing strategy, restaurant communi
 
 &nbsp;
 
-# [8. Link to my design porfolio](https://enysojkova.myportfolio.com)
+# [8. Thesis presentation] ()
+
+&nbsp;
+
+# [9. Year end review] ()
+
+&nbsp;
+
+# [Link to my design porfolio](https://enysojkova.myportfolio.com)
