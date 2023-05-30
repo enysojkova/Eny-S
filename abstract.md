@@ -19,6 +19,3 @@ keywords: adventure golf, design, gamification, visual identity
 This bachelor thesis is about creating a complex visual and communication style for the sports and recreational facility Bar & Grill Adventure Golf Kamencové jezero. This is a real project, with construction taking place from summer 2022 to May 2023. An important part of this is the design of the social media marketing strategy, along with an explanation for the owners, who will manage the content on all platforms themselves. Adventure golf is a special kind of minigolf. Aesthetically reminiscent of a park, the course occupies the first half of the project, a restaurant stands in the second half. This is the only adventure golf course in Chomutov and the surrounding area. The entire resulting visual style is based on theory focused on the rules of visual identity, graphic design, marketing principles and gamification principles.
 
 keywords: adventure golf, graphic design, marketing strategy, restaurant communication, visual style
-
-## Presentation
-
