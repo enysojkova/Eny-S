@@ -26,7 +26,7 @@
 
 - [8. Thesis presentation](thesis-presentation.md)
 
-- [9. Year end review]()
+- [9. Year end review](end-review.md)
 
 - [Link to my design porfolio](https://enysojkova.myportfolio.com) ... you know... since I'm a designer 
 
@@ -287,7 +287,7 @@ keywords: adventure golf, graphic design, marketing strategy, restaurant communi
 
 &nbsp;
 
-# [9. Year end review]()
+# [9. Year end review](end-review.md)
 
 &nbsp;
 
