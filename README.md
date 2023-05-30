@@ -258,7 +258,7 @@ Alt text: sunny side up
 &nbsp;
 
 # [6. Storytelling](storytelling.md)
-[nurture and discipline.pdf](https://github.com/enysojkova/Eny-S/files/11602621/nurture.and.discipline.pdf)
+[Storytelling presentation](https://github.com/enysojkova/Eny-S/files/11602621/nurture.and.discipline.pdf)
 
 &nbsp;
 
