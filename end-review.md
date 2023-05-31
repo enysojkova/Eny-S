@@ -1,4 +1,4 @@
-# [9. Year end review]
+# 9. Year end review
 
 > 1) What did you like most about this course?
 
