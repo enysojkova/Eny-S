@@ -289,7 +289,7 @@ keywords: adventure golf, graphic design, marketing strategy, restaurant communi
 
 # [8. Thesis presentation](thesis-presentation.md)
 
-[Ckeck out the Thesis Presentation](https://github.com/enysojkova/Eny-S/files/11608741/Thesis.Presentation.pdf)
+[Click here to check out the Thesis Presentation](https://github.com/enysojkova/Eny-S/files/11608741/Thesis.Presentation.pdf)
 
 
 &nbsp;
