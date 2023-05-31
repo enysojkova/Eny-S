@@ -59,7 +59,7 @@ A: Nothiiiing.
 
 > 10) What advice would you give to students taking this course next year?
 
-A: Enjoy it and don't skip a single class, I did and I regret it. 
+A: Enjoy it and don't miss a single class, I did and I regret it. 
 
 
 &nbsp;
