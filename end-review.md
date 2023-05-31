@@ -47,7 +47,7 @@ A: Ask every question that went through my head when in doubt. I also should hav
 
 > 8) What’s one thing I could have done better?
 
-A: We could've done more work on our projects in class, so you would see our progress right away a we could've consulted with other students. I know we can do that anyway, but if it were part of the class, we could've gotten more used to it and the outcome wouldn't be such a surprise to everyone. 
+A: We could've done more work on our projects in class, so you would see our progress right away and we could've consulted with other students. I know we can do that anyway, but if it were part of the class, we could've gotten more used to it and the outcome wouldn't be such a surprise to everyone. 
 
 &nbsp;
 
