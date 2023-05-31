@@ -258,7 +258,7 @@ Alt text: sunny side up
 &nbsp;
 
 # [6. Storytelling](storytelling.md)
-[Storytelling presentation](https://github.com/enysojkova/Eny-S/files/11602621/nurture.and.discipline.pdf)
+[Download the Storytelling presentation](https://github.com/enysojkova/Eny-S/files/11602621/nurture.and.discipline.pdf)
 
 &nbsp;
 
@@ -284,26 +284,34 @@ keywords: adventure golf, graphic design, marketing strategy, restaurant communi
 
 &nbsp;
 
+
+
+
 # [8. Thesis presentation](thesis-presentation.md)
 
+[Ckeck out the Thesis Presentation](https://github.com/enysojkova/Eny-S/files/11608741/Thesis.Presentation.pdf)
+
+
 &nbsp;
+
+
 
 # [9. Year end review](end-review.md)
 
 1) What did you like most about this course?
 
-> A: I enjoyed the fact, that I heard something new every week 
+> A: I enjoyed the fact, that I heard something completely new and interesting/inspiring every week.
 
 
 &nbsp;
-2) What did you like least about this course?
+2) What did you like least about this course? 
 
-> A: 
+> A: I would prefer a more comunicative group, where I might have built up more courage
 
 &nbsp;
 3) What were the top (three) things you learned this year?
 
-> A: The course taught me a lot about written english and different, more open and authentic ways to express myself. 
+> A: The course taught me a lot about written english and different, more open and authentic ways to express myself. I loved learning Github and  
 
 &nbsp;
 4) What was the most memorable activity/assignment?
