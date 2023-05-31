@@ -298,47 +298,51 @@ keywords: adventure golf, graphic design, marketing strategy, restaurant communi
 
 # [9. Year end review](end-review.md)
 
-1) What did you like most about this course?
+> 1) What did you like most about this course?
 
-> A: I enjoyed the fact, that I heard something completely new and interesting/inspiring every week.
-
-
-&nbsp;
-2) What did you like least about this course? 
-
-> A: I would prefer a more comunicative group, where I might have built up more courage
-
-&nbsp;
-3) What were the top (three) things you learned this year?
-
-> A: The course taught me a lot about written english and different, more open and authentic ways to express myself. I loved learning Github and  
-
-&nbsp;
-4) What was the most memorable activity/assignment?
+A: I enjoyed the homeworks and presentations with your feedback, that always helped me see new things to improve. I mean, I don't usually enjoy homeworks, but the work you gave us was challenging and you showed us new techniques to approach the problem. Most of the advice you gave us stuck with me and I continue practicing it.  
 
 
 &nbsp;
-5) What’s something you accomplished this year that you are most proud of?
+
+> 2) What did you like least about this course? 
+
+A: I would prefer a more communicative group, where I might have built up more courage to speak and say my opinion.
+
+&nbsp;
+> 3) What were the top (three) things you learned this year?
+
+A: The course taught me a lot about written english and different, more open and authentic ways to express myself. 
+I loved learning _Github!!!_ 
+And all the tools you showed us such as the color contrast checker and Hemingway. 
+
+&nbsp;
+> 4) What was the most memorable activity/assignment?
+
+A: 
+
+&nbsp;
+> 5) What’s something you accomplished this year that you are most proud of?
 
 
 &nbsp;
-6) What’s one thing you learned about yourself?
+> 6) What’s one thing you learned about yourself?
 
 
 &nbsp;
-7) What’s one thing you could have done better?
+> 7) What’s one thing you could have done better?
 
 
 &nbsp;
-8) What’s one thing I could have done better?
+> 8) What’s one thing I could have done better?
 
 
 &nbsp;
-9) What’s one thing you would add or change about this course?
+> 9) What’s one thing you would add or change about this course?
 
 
 &nbsp;
-10) What advice would you give to students taking this course next year?
+> 10) What advice would you give to students taking this course next year?
 
 
 
